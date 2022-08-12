@@ -1,4 +1,4 @@
-# README
+# JPG Image Recovery
 
 Given a memory card image (the raw data of a memory card), recover.c scans it for deleted .jpg images and restores each of them to their own accessible JPG file.
 
